@@ -14,9 +14,6 @@ Other Common Github Profile Sections
 
 ⚡️ find me in the gym.
 
-Acknowledgements
-Awesome Readme Templates
-Awesome README
-How to write a Good readme
+
 🛠 Skills
 Javascript, HTML, CSS...
