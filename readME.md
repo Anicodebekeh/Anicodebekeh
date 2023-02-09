@@ -2,11 +2,9 @@ Hi, I'm Bekeh! 👋
 Other Common Github Profile Sections
 👩‍💻 I'm currently working on todo list using html and Javascript
 
-🧠 I'm currently learning javascript and python
+🧠 I'm currently learning javascript
 
 👯‍♀️ I'm looking to collaborate on amazing projects
-
-🤔 I'm looking for help with django
 
 💬 Ask me about html, css and javascript
 
@@ -16,4 +14,4 @@ Other Common Github Profile Sections
 
 
 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, Node.js Express.js, MongoDb, Mongoose, Git, Templating with Ejs,  HTML, CSS...
