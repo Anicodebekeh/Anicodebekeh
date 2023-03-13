@@ -1,6 +1,6 @@
 Hi, I'm Bekeh! 👋
 Other Common Github Profile Sections
-👩‍💻 I'm currently working on todo list using html and Javascript
+👩‍💻 I'm currently working on clone YelpCamp using Javascript for both frontend and backend.
 
 🧠 I'm currently learning javascript
 
