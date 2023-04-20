@@ -2,7 +2,7 @@ Hi, I'm Bekeh! 👋
 Other Common Github Profile Sections
 👩‍💻 I'm currently working on clone YelpCamp using Javascript for both frontend and backend.
 
-🧠 I'm currently learning javascript
+🧠 I'm currently React and SQL
 
 👯‍♀️ I'm looking to collaborate on amazing projects
 
