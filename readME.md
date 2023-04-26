@@ -6,7 +6,7 @@ Other Common Github Profile Sections
 
 👯‍♀️ I'm looking to collaborate on amazing projects
 
-💬 Ask me about html, css and javascript
+💬 Everything Javascript
 
 📫 How to reach me aniekanbekeh@yahoo.com
 
@@ -14,4 +14,4 @@ Other Common Github Profile Sections
 
 
 🛠 Skills
-Javascript, Node.js Express.js, MongoDb, Mongoose, Git, Templating with Ejs,  HTML, CSS...
+Javascript, Node.js Express.js, MongoDb, Mongoose, Git, Templating with Ejs...
